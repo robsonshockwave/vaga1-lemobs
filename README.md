@@ -1,27 +1,45 @@
-# LemobsTest
+# Teste xxx
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/neliocursos/exemplo-readme/blob/main/LICENSE) 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.1.
+# Sobre o projeto
 
-## Development server
+https://wmazoni-sds1.netlify.app
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Foi criado um projeto em [ANGULAR](https://angular.io/) para a visualização de um painel de dados, na qual consta informações estatísticas sobre o COVID-19.
+O painel foi obtido através de uma API da [Tableau](https://public.tableau.com/en-us/s/).
 
-## Code scaffolding
+## Painel
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<p align="center">
+	<img alt="painel" src="github/painel.PNG" witdh="50%">
+</p>
 
-## Build
+# Tecnologias utilizadas
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Front end
+- HTML / CSS / JS / TypeScript
+- Angular
 
-## Running unit tests
+<hr>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+# Como executar o projeto
 
-## Running end-to-end tests
+Pré-requisitos: NodeJS
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+```bash
+# clonar repositório
+git clone https://github.com/robsonshockwave/vaga1-lemobs
 
-## Further help
+# entrar na pasta do projeto vaga1-lemobs
+cd vaga1-lemobs
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# instalar dependências
+npm install
+
+# executar o projeto
+npm start
+```
+
+<hr>
+
+<h6>Feito com carinho por <b>Robson de Arruda Silva</b>!</h6>
