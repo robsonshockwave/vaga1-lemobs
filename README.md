@@ -3,8 +3,6 @@
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
-
 Foi criado um projeto em [ANGULAR](https://angular.io/) para a visualização de um painel de dados, na qual consta informações estatísticas sobre o COVID-19.
 O painel foi obtido através de uma API da [Tableau](https://public.tableau.com/en-us/s/).
 
@@ -43,3 +41,4 @@ npm start
 <hr>
 
 <h6>Feito com carinho por <b>Robson de Arruda Silva</b>!</h6>
+-------------------------------------------------
