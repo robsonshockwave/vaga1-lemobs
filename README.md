@@ -1,7 +1,6 @@
 # Teste Lemobs
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/neliocursos/exemplo-readme/blob/main/LICENSE) 
 
-# Sobre o projeto
+## Sobre o projeto
 
 Foi criado um projeto em [ANGULAR](https://angular.io/) para a visualização de um painel de dados, na qual consta informações estatísticas sobre o COVID-19.
 O painel foi obtido através de uma API da [Tableau](https://public.tableau.com/en-us/s/).
